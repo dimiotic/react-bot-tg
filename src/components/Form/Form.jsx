@@ -49,7 +49,7 @@ const Form = () => {
                 type="text"
                 placeholder={'Вулиця'}
                 value={street}
-                onChange={onChangeCountry}
+                onChange={onChangeStreet}
             />
             <select value={subject} onChange={onChangeSubject} className={'select'}>
                 <option value={'physical'}>Фіз. лице</option>
