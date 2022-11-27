@@ -4,7 +4,7 @@ import ProductItem from '../ProductItem/ProductItem';
 import './ProductList.css'
 
 const products = [
-    {id: '1', title: 'Джинси', price: 5000, description: 'Синього кольору, прямі'},
+    {id: '1', title: 'Джинси',price: 5000, description: 'Синього кольору, прямі'},
     {id: '2', title: 'Куртка', price: 12000, description: 'Зеленого кольору, тепла'},
     {id: '3', title: 'Джинси 2', price: 5000, description: 'Синього кольору, прямі'},
     {id: '4', title: 'Куртка 8', price: 12000, description: 'Зеленого кольору, тепла'},
