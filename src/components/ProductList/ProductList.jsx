@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useTelegram } from '../../hooks/useTelegram';
 import ProductItem from '../ProductItem/ProductItem';
-import './ProductList.css'
+import './ProductList'
 
 const products = [
     {id: '1', title: 'Джинси', price: 5000, description: 'Синього кольору, прямі'},
